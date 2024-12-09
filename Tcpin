@@ -1,0 +1,2 @@
+A <> bot that post images/tweets of <> on X (Twitter) every hour. The bot doesn't retweet, like, quote, follow, add to lists, or interact with X (Twitter) users in other ways. If this happens, it's the owner of the bot who is doing that, not the bot itself.
+send hourly tweets
